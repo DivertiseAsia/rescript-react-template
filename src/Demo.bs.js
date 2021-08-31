@@ -6,7 +6,7 @@ import * as ReactDom from "react-dom";
 var el = document.querySelector("#root");
 
 if (!(el == null)) {
-  ReactDom.render(React.createElement("div", undefined, "test"), el);
+  ReactDom.render(React.createElement("div", undefined, "Rescript React template"), el);
 }
 
 export {
