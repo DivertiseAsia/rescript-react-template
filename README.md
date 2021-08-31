@@ -1,6 +1,6 @@
-# ReScript Project Template
+# ReScript React Project Template
 
-The only official ReScript starter template.
+Rescript React template using ViteJS as bundler.
 
 ## Installation
 
@@ -13,9 +13,5 @@ npm install
 - Build: `npm run build`
 - Clean: `npm run clean`
 - Build & watch: `npm run start`
+- Run dev server: `npm run server`
 
-## Run
-
-```sh
-node src/Demo.bs.js
-```
